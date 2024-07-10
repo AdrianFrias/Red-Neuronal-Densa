@@ -1,0 +1,7 @@
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\bin\Debug\NNMultiEntSalV2.exe.config
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\bin\Debug\NNMultiEntSalV2.exe
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\bin\Debug\NNMultiEntSalV2.pdb
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\obj\Debug\NNMultiEntSalV2.csprojAssemblyReference.cache
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\obj\Debug\NNMultiEntSalV2.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\obj\Debug\NNMultiEntSalV2.exe
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NNMultiEntSalV2\obj\Debug\NNMultiEntSalV2.pdb

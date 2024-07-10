@@ -1,0 +1,7 @@
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\bin\Debug\NN432V1.exe.config
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\bin\Debug\NN432V1.exe
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\bin\Debug\NN432V1.pdb
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\obj\Debug\NN432V1.csprojAssemblyReference.cache
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\obj\Debug\NN432V1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\obj\Debug\NN432V1.exe
+G:\Mi unidad\Facultad\Semestre 11\Red neuronal\NN432V1\obj\Debug\NN432V1.pdb
